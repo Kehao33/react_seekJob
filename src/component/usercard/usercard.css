@@ -1,0 +1,5 @@
+.am-tab-bar-item,
+.am-tabs-pane-wrap,
+.am-tabs-pane-wrap-active{
+  z-index: -1;
+}
